@@ -1,0 +1,26 @@
+This is a student profile page having the following content
+<>header<>--with a logo and five pages home , about us etc.Its is made responsive 
+             using bootsrap 5
+<>heading<>--Welcome to student profile page  
+<>profile photo<> ---student pic can be changed (png and jpg are accepted)
+<>Click here to view gallery<>---this is the section which when clicked opens a 
+             carousel and initially three images are included and as many images can
+            be included on client requirement..(these images are sample images)
+<>Academin Profile<>---this section consisists of student details like name ,dob etc                      
+                       which can be edited as per the wish .
+ <>footer>---made responsive 
+ <>visitor<>---these is auto generated counter which shows numbers of visitors and the 
+              counter is increased by 1 at every after 3500 sec 
+
+
+<>hover<>---every word on hover becomes red 
+
+
+this page is responsive...
+            
+
+
+
+
+            hope this sample project is liked by the employeer and feel free to ask 
+            anything to change in it ???

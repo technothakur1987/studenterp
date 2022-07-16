@@ -1,0 +1,30 @@
+/*@media (max-width: 991.98px) { 
+    body{ background-color: red!important;}
+    
+   .mediaqueryul{
+        display: flex!important;
+        justify-content: center!important;
+        align-items: center!important;
+        font-size: 1.2rem!important;
+    }
+    .paddingHeader{
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+    .mediaquerybtn{
+        padding-left: 3rem!important;
+        padding-right: 3rem!important;
+    }
+     }*/
+
+
+     @media (min-width: 575.98px) and (max-width: 767.98px) {}
+        /*sm*/
+    
+        
+    @media (min-width: 1px) and (max-width: 575.98px) {}
+    
+        /*extra small*/
+        
+    
+        

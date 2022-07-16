@@ -1,0 +1,228 @@
+@media (min-width: 575.98px) and (max-width: 767.98px) {
+    /*sm*/
+    .mediaqueryul{
+        display: flex!important;
+        justify-content: center!important;
+        align-items: center!important;
+        font-size: 2.1rem!important;
+    }
+    .paddingHeader{
+        padding-left: 0!important;
+        padding-right: 0!important;
+        border-bottom: 2px solid red!important;
+        padding-bottom: 2vh!important;
+
+    }
+    .mediaquerybtn{
+        padding-left: 1rem!important;
+        padding-right: 1rem!important;
+        padding-top: 1rem!important;
+        padding-bottom: 1rem!important;
+        font-size: 2.1rem!important;
+    }
+    .mqh3{
+        font-size: 3rem!important;
+    }
+    .mqimg{
+        display: flex!important;
+        flex-direction: row!important;
+        justify-content: center!important;
+        align-items: center!important;
+        gap:2vh!important;
+    }
+    #display_image{
+        width:60%!important;
+        margin-top: 2vh!important;
+    }
+    .mqmainh3{
+        font-size: 3rem!important;
+        margin-top: 2vh!important;
+    }
+    .mqmainp{
+        font-size: 2.8rem!important;
+        margin-top: 2vh!important;
+    }
+    .mqimgfluid{
+        
+        margin-top: 2vh!important;
+        margin-bottom: 4vh!important;
+    }
+    .mqtable{
+        margin-top: 2vh!important;
+        overflow-x: auto!important;
+    }
+    .mqtableh3{
+        font-size: 1rem!important;
+        text-align: center!important;
+        
+    }
+    .mqtt{
+        font-size: 1.2rem!important;
+    }
+    #modal1,#modal2,#modal3,#modal4,#modal5,#modal6,#modal7,#modal8{
+        font-size: 2.0rem!important;
+    }
+    .mqfh5{
+        font-size: 1.5rem!important;
+        margin-top: 2vh!important;
+        margin-bottom: 2vh!important;
+    }
+    .mqfh55{
+        font-size: 1.3rem!important;
+        margin-top: 0.25vh!important;
+        margin-bottom: 0.25vh!important;
+    }
+    
+    
+
+    
+}
+
+@media (min-width: 1px) and (max-width: 575.98px) {
+
+    /*extra small*/
+    .mediaqueryul{
+        display: flex!important;
+        justify-content: center!important;
+        align-items: center!important;
+        
+    }
+    .paddingHeader{
+        padding-left: 0!important;
+        padding-right: 0!important;
+        border-bottom: 2px solid red!important;
+        padding-bottom: 2vh!important;
+    }
+    .mediaquerybtn{
+        padding-left: 1rem!important;
+        padding-right: 1rem!important;
+        padding-top: 1rem!important;
+        padding-bottom: 1rem!important;
+        
+    }
+    .mqimg{
+        display: flex!important;
+        flex-direction: row!important;
+        justify-content: center!important;
+        align-items: center!important;
+        gap:2vh!important;
+    }
+    #display_image{
+        width:60%!important;
+        margin-top: 2vh!important;
+    }
+    .mqtable{
+        margin-top: 2vh!important;
+        overflow-x: auto!important;
+    }
+    .mqtableh3{
+        font-size: 0.5rem!important;
+        text-align: center!important;
+        
+    }
+    .mqtt{
+        font-size: 0.8rem!important;
+    }
+    #btn1,#btn2,#btn3,#btn4,#btn5,#btn6,#btn7{
+        font-size: 0.8rem;
+        padding-left: 0.1rem!important;
+        padding-right: 0.1rem!important;
+    }
+    #visitorcounter{
+        font-size: 1rem!important;
+        height: 30vmin!important;
+    width:30vmin!important;
+    }
+    
+
+    
+    
+      
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /*medium screen*/
+    
+    
+    
+    
+   .mediaqueryul{
+        display: flex!important;
+        justify-content: center!important;
+        align-items: center!important;
+        font-size: 2.1rem!important;
+    }
+    .paddingHeader{
+        padding-left: 0!important;
+        padding-right: 0!important;
+        border-bottom: 2px solid red!important;
+        padding-bottom: 2vh!important;
+    }
+    .mediaquerybtn{
+        padding-left: 1rem!important;
+        padding-right: 1rem!important;
+        padding-top: 1rem!important;
+        padding-bottom: 1rem!important;
+        font-size: 2.1rem!important;
+    }
+    .mqh3{
+        font-size: 4rem!important;
+    }
+    .mqimg{
+        display: flex!important;
+        flex-direction: row!important;
+        justify-content: center!important;
+        align-items: center!important;
+        gap:20px!important;
+    }
+    #display_image{
+        width:60%!important;
+        margin-top: 2vh!important;
+    }
+    .mqmainh3{
+        font-size: 3rem!important;
+        margin-top: 2vh!important;
+    }
+    .mqmainp{
+        font-size: 2.8rem!important;
+        margin-top: 2vh!important;
+    }
+    .mqimgfluid{
+        
+        margin-top: 2vh!important;
+        margin-bottom: 4vh!important;
+    }
+    .mqtable{
+        margin-top: 2vh!important;
+        overflow-x: auto!important;
+    }
+    .mqtableh3{
+        font-size: 1.2rem!important;
+        text-align: center!important;
+        
+    }
+    .mqtt{
+        font-size: 1.5rem!important;
+    }
+    #modal1,#modal2,#modal3,#modal4,#modal5,#modal6,#modal7,#modal8{
+        font-size: 2.0rem!important;
+    }
+    .mqfh5{
+        font-size: 1.5rem!important;
+        margin-top: 2vh!important;
+        margin-bottom: 2vh!important;
+    }
+    .mqfh55{
+        font-size: 1.3rem!important;
+        margin-top: 0.25vh!important;
+        margin-bottom: 0.25vh!important;
+    }
+    
+    
+    
+
+    
+    
+      
+}

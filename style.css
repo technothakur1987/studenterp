@@ -1,0 +1,206 @@
+.paddingHeader {
+    padding-left: 3rem;
+    padding-right: 3rem;
+
+}
+
+.navbarHover:hover {
+    color: red!important;
+
+}
+
+.navbutton {
+    color: white !important;
+    font-weight: bold;
+
+
+
+}
+
+.navbutton:hover {
+    cursor: pointer !important;
+    color: rgb(199, 39, 39) !important;
+    background-color: white !important;
+    border: 1px solid rgb(199, 39, 39) !important;
+}
+
+.mainh3:hover{
+    color: red;
+    cursor: pointer;
+}
+#mycarousel{
+    display: none;
+}
+#modal1{
+    position: fixed;
+    top: 10%;
+    left:25%;
+    height: 30vh;
+    width: 50vw;
+    background-color: red;
+    font-weight: bolder;
+    display: none;
+}
+#modal2{
+    position: fixed;
+    top: 10%;
+    left:25%;
+    height: 30vh;
+    width: 50vw;
+    background-color: red;
+    font-weight: bolder;
+    display: none;
+}
+#modal3{
+    position: fixed;
+    top: 10%;
+    left:25%;
+    height: 30vh;
+    width: 50vw;
+    background-color: red;
+    font-weight: bolder;
+    display: none;
+   
+}
+#modal4{
+    position: fixed;
+    top: 10%;
+    left:25%;
+    height: 30vh;
+    width: 50vw;
+    background-color: red;
+    font-weight: bolder;
+    display: none;
+   
+}
+#modal5{
+    position: fixed;
+    top: 10%;
+    left:25%;
+    height: 30vh;
+    width: 50vw;
+    background-color: red;
+    font-weight: bolder;
+    display: none;
+   
+}
+#modal6{
+    position: fixed;
+    top: 10%;
+    left:25%;
+    height: 30vh;
+    width: 50vw;
+    background-color: red;
+    font-weight: bolder;
+    display: none;
+   
+}
+#modal7{
+    position: fixed;
+    top: 10%;
+    left:25%;
+    height: 30vh;
+    width: 50vw;
+    background-color: red;
+    font-weight: bolder;
+    display: none;
+   
+}
+
+#modal8{
+    position: fixed;
+    top: 10%;
+    left:25%;
+    height: 30vh;
+    width: 50vw;
+    background-color: red;
+    font-weight: bolder;
+    display: none;
+    
+   
+}
+#display_image{
+    height: 35vmin!important;
+    width:35vmin!important;
+    border: 1px solid black ;
+    background-image: url("images/studentpic.jfif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#visitorcounter{
+    height: 20vmin!important;
+    width:20vmin!important;
+    background-color: red!important;
+    position: fixed!important;
+    bottom: 0!important;
+    right:0px!important;
+    border-radius: 50%!important;
+    text-align: center!important;
+    display: flex!important;
+    flex-direction: column!important;
+    justify-content: center!important;
+    align-items: center!important;
+    color: white!important;
+    font-size: 1rem!important;
+
+}
+
+
+.footerhover:hover{
+    color: red!important;
+    cursor: pointer!important;
+}
+
+
+/*styling for scroll*/
+html {
+    scroll-behavior: smooth;
+}
+
+body::-webkit-scrollbar {
+    width: 1rem;
+   
+    /* width of the entire scrollbar */
+    transition: all .15s ease-in-out 0s;
+}
+
+body::-webkit-scrollbar-track {
+    background: rgb(223, 218, 210);
+    /* color of the tracking area */
+    transition: all .15s ease-in-out 0s;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: rgb(255, 0, 13);
+    /* color of the scroll thumb */
+    border-radius: 20px;
+    /* roundness of the scroll thumb */
+    border: 3px solid rgb(192, 187, 177);
+    /* creates padding around scroll thumb */
+    transition: all .15s ease-in-out 0s;
+}
+
+/*scroll for mozilla firefox*/
+body {
+    scrollbar-width: 1rem;
+    /* "auto" or "thin" */
+    scrollbar-color: rgb(255, 0, 43) rgb(172, 167, 158);
+    /* scroll thumb and track */
+    transition: all .15s ease-in-out 0s;
+}
+
+
+/*scrollon class*/
+.paddingHeader.scroll-on {
+    background-color: rgb(221, 204, 207);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+    box-shadow: 5px 10px 15px 20px rgba(20, 20, 20, 0.1);
+    transition: all .15s ease-in-out 0s;
+}
+
